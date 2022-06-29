@@ -8,6 +8,7 @@
 - You can add a link and save it in the extension.
 - You can also save the link of current tab on which you are working and check back later
 - There is also an option for deleting all the links that are saved
-- The project uses localStorage for saving the data so that you don't loose your saved leads if you refresh the page
+- "Delete All" button works on double click whereas "Save Current Tab" and "Save Input" works on single click
+- The project also uses localStorage for saving the data so that you don't loose your saved leads if you refresh the page
 
 
